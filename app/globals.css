@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* smoother font rendering */
+html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
