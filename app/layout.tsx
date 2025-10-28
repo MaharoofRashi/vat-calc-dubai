@@ -26,7 +26,7 @@ export const metadata: Metadata = {
         follow: true,
     },
     alternates: {
-        canonical: "https://your-domain.com/", // <- update to your real domain
+        canonical: "https://vat-calc.supremeservices.ae/",
     },
 };
 
